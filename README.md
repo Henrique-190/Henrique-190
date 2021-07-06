@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+### Languages and Tools:
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />
+
 <!--
 **Henrique-190/Henrique-190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
