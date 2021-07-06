@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-### Languages and Tools:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />
+##### Languages and Tools:
+<img height="32" width="32" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189956.png" />   <img height="32" width="32" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_clion_macos_bigsur_icon_190059.png" />   <img height="32" width="32" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" />   <img height="32" width="32" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/applicationshaskell_93694.png" />   <img height="32" width="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_line_logo_icon_146612.png" />   <img height="32" width="32" src="https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png" />   
+
 
 <!--
 **Henrique-190/Henrique-190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
