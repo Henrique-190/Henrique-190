@@ -1,5 +1,8 @@
-# 👋 Hi! Welcome to my GitHub account 
+# 👋 Hi! Welcome to my GitHub account
 
+🏠 Barcelos, Portugal
+<br>
+👨‍🎓 2nd Year, Computer Science, Universidade do Minho, Braga, Portugal
 <br>
 
 ## 💻 Languages and Tools:
