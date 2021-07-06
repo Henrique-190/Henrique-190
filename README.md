@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi! Welcome to my GitHub account 
 
 
 #### 💻 Languages and Tools:
@@ -12,4 +12,14 @@
 <br><br><br><br><br><br><br><br><br>
 
 #### 🎧 Now Listening
-[![Spotify](https://novatorem-henrique-190.vercel.app/api/spotify)](https://open.spotify.com/user/x8x10e9k61yoscgk3qsxckogt)
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://novatorem-henrique-190.vercel.app/api/spotify)](https://open.spotify.com/user/x8x10e9k61yoscgk3qsxckogt)
+  </td>
+  <td width="50%">
+    
+<br>![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=x8x10e9k61yoscgk3qsxckogt&count=3)
+  </td>
+  </table>
