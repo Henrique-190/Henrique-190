@@ -22,23 +22,30 @@
         <details>
           <summary>&emsp;&emsp;Laboratórios de Informática I</summary>
           &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/1st%20Grade/1st%20Semester/LI1">Excitebike</a></li>
+          <br>
         </details>
         <details>
           <summary>&emsp;&emsp;Programação Funcional</summary>
           &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/1st%20Grade/1st%20Semester/PF">Exercises</a></li>
+          <br>
         </details>
+        <br>
     </details>
     <details>
       <summary>&emsp;2nd Semester</summary>
         <details>
           <summary>&emsp;&emsp;Laboratórios de Informática II</summary>
-          &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/1st%20Grade/2nd%20Semester/LI2">Rastros</a></li>
+          &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/1st%20Grade/2nd%20Semester/LI2/LI2PL7G4">Rastros</a></li>
+          &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/1st%20Grade/2nd%20Semester/LI2/Exercícios">Exercises</a></li>
+          <br>
         </details>
         <details>
           <summary>&emsp;&emsp;Programação Imperativa</summary>
           &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/1st%20Grade/2nd%20Semester/PI">Exercises</a></li>
+          <br>
         </details>
     </details>
+    <br>
 </details>
 
 <details>
@@ -49,6 +56,7 @@
           <details>
             <summary>&emsp;&emsp;Comunicação de Dados</summary>
               &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/1st%20Semester/Comunica%C3%A7%C3%A3o%20de%20Dados">Conversion Data System</a></li>
+            <br>
           </details>
       </details>
     </div>
@@ -58,21 +66,29 @@
         <details>
           <summary>&emsp;&emsp;Cálculo de Programas</summary>
             &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/CP">Project</a></li>
+          <br>
         </details>
         <details>
           <summary>&emsp;&emsp;Laboratórios de Informática III</summary>
-            &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/LI3">SVG</a></li>
+            &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/LI3/project_c">SGR - C</a></li>
+            &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/LI3/project_java">SGR - JAVA</a></li>
+          <br>
         </details>
         <details>
           <summary>&emsp;&emsp;Programação Orientada aos Objetos</summary>
             &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/POO">Football Manager</a></li>
+          <br>
         </details>
         <details>
           <summary>&emsp;&emsp;Sistemas Operativos</summary>
             &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/SO">Audio File Processor</a></li>
+          <br>
         </details>
     </details>
+    <br>
 </details>
+
+<br>
 
 ## 🎧 Now Listening
 <table width="100%">
