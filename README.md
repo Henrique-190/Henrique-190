@@ -7,10 +7,12 @@
 <br>
 
 ### ⚡ GitHub Stats
-  
 <img align="left" alt="Henrique-190 GitHub Stats" src="https://github-readme-stats-henrique-190.vercel.app/api?username=henrique-190&show_icons=true&hide_border=true&theme=react&include_all_commits=true)" />
 
-<br><br><br><br><br><br><br><br><br><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-190)](https://github.com/Henrique-190/github-readme-stats)
+
+
+<br><br><br><br><br><br><br><br><br><br>
 
 ### 🎧 Now Listening
 <table width="100%"> 
@@ -24,3 +26,6 @@
 <br>![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=x8x10e9k61yoscgk3qsxckogt&count=3)
   </td>
   </table>
+
+### 📱 Social Media
+
