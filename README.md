@@ -94,18 +94,9 @@
 <br>
 
 ## 🎧 Now Listening
-<table width="100%">
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://novatorem-henrique-190.vercel.app/api/spotify)](https://open.spotify.com/user/x8x10e9k61yoscgk3qsxckogt)
-  </td>
-  <td width="50%">
-    
-<br>![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=x8x10e9k61yoscgk3qsxckogt&count=3)
-  </td>
-  </table>
-
-<br><br>
+[![Spotify](https://novatorem-henrique-190.vercel.app/api/spotify)](https://open.spotify.com/user/x8x10e9k61yoscgk3qsxckogt)
 
 ## 📱 Social Media
+[![GitHub](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/gh.svg?token=AQWYXGVYBAQSQ4BB4FWPB73AUYRWG)](https://github.com/Henrique-190) 
+[![Facebook](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/fb.svg?token=AQWYXGXXXHCQPW6TB5K662DAUYRU4)](https://www.facebook.com/henrique.alvelos/) 
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=black)](https://www.instagram.com/henrique_0911/)
