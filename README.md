@@ -109,6 +109,3 @@
 <br><br>
 
 ## 📱 Social Media
-[![GitHub](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/gh.svg?token=AQWYXGVYBAQSQ4BB4FWPB73AUYRWG)](https://github.com/Henrique-190) 
-[![Facebook](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/fb.svg?token=AQWYXGXXXHCQPW6TB5K662DAUYRU4)](https://www.facebook.com/henrique.alvelos/) 
-[![Instagram](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/ig.svg?token=AQWYXGSRZV6J3H2AIKD4Z2DAUYRXA)](https://www.instagram.com/henrique_0911/)
