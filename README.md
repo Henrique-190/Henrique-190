@@ -109,5 +109,6 @@
 <br><br>
 
 ## 📱 Social Media
-<p><a href=”https://www.facebook.com/henrique.alvelos/”><img border="0" alt="fb" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_1-facebook-256.png" width="40" height="40"></a></p>
-<p><a href=”https://www.instagram.com/henrique_0911/”><img border="0" alt="ig" src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-03-256.png" width="40" height="40"></a></p>
+[![GitHub](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/gh.svg?token=AQWYXGVYBAQSQ4BB4FWPB73AUYRWG)](https://github.com/Henrique-190) 
+[![Facebook](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/fb.svg?token=AQWYXGXXXHCQPW6TB5K662DAUYRU4)](https://www.facebook.com/henrique.alvelos/) 
+[![Instagram](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/ig.svg?token=AQWYXGSRZV6J3H2AIKD4Z2DAUYRXA)](https://www.instagram.com/henrique_0911/)
