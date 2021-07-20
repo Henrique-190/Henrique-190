@@ -109,7 +109,5 @@
 <br><br>
 
 ## 📱 Social Media
-<a href=”https://www.facebook.com/henrique.alvelos/”><img border="0" alt="fb" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_1-facebook-256.png" width="40" height="40"></a>
-<a href=”https://www.instagram.com/henrique_0911/”><img border="0" alt="ig" src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-03-256.png" width="40" height="40"></a> 
-<a href=”https://twitter.com/centonoventa”><img border="0" alt="tt" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_6-twitter-256.png" width="40" height="40"></a> 
-
+<p><a href=”https://www.facebook.com/henrique.alvelos/”><img border="0" alt="fb" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_1-facebook-256.png" width="40" height="40"></a></p>
+<p><a href=”https://www.instagram.com/henrique_0911/”><img border="0" alt="ig" src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-03-256.png" width="40" height="40"></a></p>
