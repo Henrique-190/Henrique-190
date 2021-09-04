@@ -96,8 +96,8 @@
 
 ## 🧍 Projects and Works by Myself
 <details>
-  <summary>&emsp;&emsp;Change Media Name</summary>
-          &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/ChangeMediaName">Project</a></li>
+  <summary>&emsp;Change Media Name</summary>
+          &emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/ChangeMediaName">Project</a></li>
           <br>
 </details>
 
