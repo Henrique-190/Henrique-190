@@ -30,7 +30,7 @@
 
 <br>
 
-## 🧠 Projects and Works
+## 🧠 University Projects and Works
 <details>
   <summary>1st Grade</summary>
     <details>
@@ -94,7 +94,14 @@
 
 <br>
 
+## 🧍 Projects and Works by Myself
+<details>
+  <summary>&emsp;&emsp;Change Media Name</summary>
+          &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/ChangeMediaName">Project</a></li>
+          <br>
+</details>
 
+<br>
 
 ## ⚡ GitHub Stats
 <img align="left" alt="Henrique-190 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=henrique-190&show_icons=true&hide_border=true&theme=react&include_all_commits=true)" />
