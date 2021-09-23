@@ -14,7 +14,7 @@
 ## ⚡ GitHub Stats
 <img align="left" alt="Henrique-190 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=henrique-190&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true)" />
 <img align="right" alt="Henrique-190 GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-190&card_width=260&layout=compact&show_icons=true&hide_border=true&theme=react&include_all_commits=true)"/>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ## 💻 Languages and Tools:
 <table>
