@@ -22,27 +22,31 @@
     <td align="center" valign="center">Languages</td>
     <td align="center" valign="center"><img src="https://img.shields.io/badge/Haskell-190?style=for-the-badge&logo=haskell&logoColor=5D4F85&color=5D4F85&labelColor=ffffff" alt="" border=3></td>
     <td align="center" valign="center"><img src="https://img.shields.io/badge/Latex-190.svg?style=for-the-badge&logo=latex&logoColor=114433&color=114433&labelColor=ffffff" alt="" border=3></td>
-    <td colspan="2" align="center" valign="center"><img src="https://img.shields.io/badge/C-190?style=for-the-badge&logo=c&logoColor=00599C&color=00599C&labelColor=ffffff" alt="" border=3></td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/C-190?style=for-the-badge&logo=c&logoColor=00599C&color=00599C&labelColor=ffffff" alt="" border=3></td>
     <td align="center" valign="center"><img src="https://img.shields.io/badge/Java-190?style=for-the-badge&logo=java&logoColor=ED8B00&color=ED8B00&labelColor=ffffff" alt="" border=3></td>
-    <td align="center" valign="center"><img src="https://img.shields.io/badge/R-190?style=for-the-badge&logo=r&logoColor=276DC3&color=276DC3&labelColor=ffffff" alt="" border=3></td>
-    <td align="center" valign="center"><img src="https://img.shields.io/badge/Python-190?style=for-the-badge&logo=python&logoColor=938200&color=938200&labelColor=ffffff" alt="" border=3></td>
+    <td colspan="2" align="center" valign="center"><img src="https://img.shields.io/badge/R-190?style=for-the-badge&logo=r&logoColor=276DC3&color=276DC3&labelColor=ffffff" alt="" border=3></td>
+    <td colspan="2" align="center" valign="center"><img src="https://img.shields.io/badge/Python-190?style=for-the-badge&logo=python&logoColor=938200&color=938200&labelColor=ffffff" alt="" border=3></td>
   </tr>
   <tr>
-    <td align="center" valign="center">IDE</td>
+    <td rowspan="2" align="center" valign="center">IDE</td>
     <td align="center" valign="center"><img src="https://img.shields.io/badge/Sublime-190?&style=for-the-badge&logo=sublime-text&logoColor=ffffff&color=black&labelColor=ff5e13" alt="" border=3></td>
     <td align="center" valign="center"><img src="https://img.shields.io/badge/Overleaf-190?&style=for-the-badge&logo=overleaf&logoColor=ffffff&color=black&labelColor=48ac3c" alt="" border=3></td>
     <td align="center" valign="center"><img src="https://img.shields.io/badge/Visual_Studio-190?style=for-the-badge&logo=visual%20studio%20code&logoColor=ffffff&color=black&labelColor=5b2d90" alt="" border=3></td>
     <td align="center" valign="center"><img src="https://img.shields.io/badge/Clion-190?style=for-the-badge&logo=clion&logoColor=ffffff&color=black&labelColor=e8398c" alt="" border=3></td>
-    <td align="center" valign="center"><img src="https://img.shields.io/badge/IntelliJ-190?style=for-the-badge&logo=intellij-idea&logoColor=ffffff&color=black&labelColor=137cf0" alt="" border=3></td>
+    <td colspan="2" align="center" valign="center"><img src="https://img.shields.io/badge/IntelliJ-190?style=for-the-badge&logo=intellij-idea&logoColor=ffffff&color=black&labelColor=137cf0" alt="" border=3></td>
+  </tr>
+  <tr>
     <td align="center" valign="center"><img src="https://img.shields.io/badge/R Studio-190?style=for-the-badge&logo=rstudio&logoColor=ffffff&color=black&labelColor=75aadb" alt="" border=3></td>
     <td align="center" valign="center"><img src="https://img.shields.io/badge/Pycharm-190?style=for-the-badge&logo=pycharm&logoColor=ffffff&color=black&labelColor=148152" alt="" border=3></td>
   </tr>
+</table>
+<table>
   <tr>
     <td align="center" valign="center">Machine Specs</td>
-    <td colspan="2" align="center" valign="center"><img src="https://img.shields.io/badge/Windows 11-190?style=for-the-badge&logo=windows&logoColor=white&color=005fb8" alt="" border=3></td>
-    <td colspan="2" align="center" valign="center"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="" border=3></td>
-    <td colspan="1" align="center" valign="center"><img src="https://img.shields.io/badge/MX130-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="" border=3></td>
-    <td colspan="2" align="center" valign="center"><img src="https://img.shields.io/badge/Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="" border=3</td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/Windows 11-190?style=for-the-badge&logo=windows&logoColor=white&color=005fb8" alt="" border=3></td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="" border=3></td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/MX130-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="" border=3></td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="" border=3</td>
   </tr>
 </table>
 <br>
