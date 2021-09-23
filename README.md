@@ -9,7 +9,6 @@
 [![Facebook](https://img.shields.io/badge/Henrique_Alvelos-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/henrique.alvelos/) 
 [![Instagram](https://img.shields.io/badge/@henrique__0911-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique_0911/)
 [![Spotify](https://img.shields.io/badge/Henrique_Alvelos-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/henriquealvelos?si=79c3136203bd4813)
-[![Spotify](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://open.spotify.com/user/henriquealvelos?si=79c3136203bd4813)
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()-->
 <br>
 
