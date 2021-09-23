@@ -3,16 +3,16 @@
 🏠 Barcelos, Portugal
 <br>
 👨‍🎓 2nd Year, Computer Science, Universidade do Minho, Braga, Portugal
-<br><br>
+<br><br><br>
 
 ## 📱 Social Media
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/henrique.alvelos/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique_0911/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()<br><br><br>
 
 ## ⚡ GitHub Stats
 <img align="left" alt="Henrique-190 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=henrique-190&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true)" />
-<img align="right" alt="Henrique-190 GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-190&card_width=350&layout=compact&show_icons=true&hide_border=true&theme=react&include_all_commits=true)"/>
+<img align="right" alt="Henrique-190 GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-190&card_width=300&layout=compact&show_icons=true&hide_border=true&theme=react&include_all_commits=true)"/>
 
 <br><br><br><br><br><br><br><br><br><br>
 
