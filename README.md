@@ -8,25 +8,41 @@
 ## 📱 Social Media
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/henrique.alvelos/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique_0911/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()<br><br>
 
-<br>
+## ⚡ GitHub Stats
+<img align="left" alt="Henrique-190 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=henrique-190&show_icons=true&hide_border=true&theme=react&include_all_commits=true)" />
 
-## 🎧 Now Listening
-[![Spotify](https://novatorem-henrique-190.vercel.app/api/spotify)](https://open.spotify.com/user/x8x10e9k61yoscgk3qsxckogt)
+<img align="right" alt="Henrique-190 GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-190&layout=compact&langs_count=5&show_icons=true&hide_border=true&theme=react&include_all_commits=true)"/>
 
-<br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## 💻 Languages and Tools:
-[![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)<br>
-[![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)<br>
-[![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
+<table>
+  <tr>
+    <td align="center" valign="center">Languages</td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/Haskell-190?style=for-the-badge&logo=haskell&logoColor=5D4F85&color=5D4F85&labelColor=ffffff" alt="" border=3></td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/Latex-190.svg?style=for-the-badge&logo=latex&logoColor=114433&color=114433&labelColor=ffffff" alt="" border=3></td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/C-190?style=for-the-badge&logo=c&logoColor=00599C&color=00599C&labelColor=ffffff" alt="" border=3></td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/Java-190?style=for-the-badge&logo=java&logoColor=ED8B00&color=ED8B00&labelColor=ffffff" alt="" border=3></td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/R-190?style=for-the-badge&logo=r&logoColor=276DC3&color=276DC3&labelColor=ffffff" alt="" border=3></td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/Python-190?style=for-the-badge&logo=python&logoColor=938200&color=938200&labelColor=ffffff" alt="" border=3></td>
+  </tr>
+  <tr>
+    <td align="center" valign="center">IDE's</td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/Sublime_text-190?&style=for-the-badge&logo=sublime-text&logoColor=ffffff&color=black&labelColor=ff5e13" alt="" border=3></td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/Visual_Studio_Code-190?style=for-the-badge&logo=visual%20studio%20code&logoColor=ffffff&color=black&labelColor=5b2d90" alt="" border=3></td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/Clion-190?style=for-the-badge&logo=clion&logoColor=ffffff&color=black&labelColor=e8398c" alt="" border=3></td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/Pycharm-190?style=for-the-badge&logo=pycharm&logoColor=ffffff&color=black&labelColor=148152" alt="" border=3></td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/IntelliJIDEA-190?style=for-the-badge&logo=intellij-idea&logoColor=ffffff&color=black&labelColor=137cf0" alt="" border=3></td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/R Studio-190?style=for-the-badge&logo=rstudiologoColor=ffffff&color=black&labelColor=148152" alt="" border=3></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="center">Operating Systems</td>
+    <td colspan="2" align="center" valign="center"><img src="https://img.shields.io/badge/haskell-190?style=for-the-badge&logo=haskell&logoColor=5D4F85&color=5D4F85&labelColor=ffffff" alt="" border=3></td>
+    <td colspan="2" align="center" valign="center"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="" border=3></td>
+  </tr>
+</table>
 
 <br>
 
@@ -103,7 +119,5 @@
 
 <br>
 
-## ⚡ GitHub Stats
-<img align="left" alt="Henrique-190 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=henrique-190&show_icons=true&hide_border=true&theme=react&include_all_commits=true)" />
-
-<img align="right" alt="Henrique-190 GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-190&langs_count=3&show_icons=true&hide_border=true&theme=react&include_all_commits=true)"/>
+## 🎧 Now Listening
+[![Spotify](https://novatorem-henrique-190.vercel.app/api/spotify)](https://open.spotify.com/user/x8x10e9k61yoscgk3qsxckogt)
