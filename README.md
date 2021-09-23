@@ -91,12 +91,8 @@
 <br>
 
 ## 🧍 Projects and Works by Myself
-<details>
-  <summary>&emsp;Change Media Name</summary>
-          &emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/ChangeMediaName">Project</a></li>
-          <br>
-</details>
-<br>
+[![ChangeMediaName](https://github-readme-stats.vercel.app/api/pin/?username=Henrique-190&repo=ChangeMediaName&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true)](https://github.com/Henrique-190/ChangeMediaName)
+<br><br><br>
 
 ## 🎧 Now Listening
 [![Spotify](https://novatorem-henrique-190.vercel.app/api/spotify)](https://open.spotify.com/user/x8x10e9k61yoscgk3qsxckogt)
