@@ -2,7 +2,7 @@
 
 🏠 Barcelos, Portugal
 <br>
-👨‍🎓 2nd Year, Computer Science, Universidade do Minho, Braga, Portugal
+👨‍🎓 3rd Year, Computer Science, Universidade do Minho, Braga, Portugal
 <br><br><br>
 
 ## 📱 Social Media
@@ -42,73 +42,52 @@
     <td colspan="2" align="center" valign="center"><img src="https://img.shields.io/badge/Windows 11-190?style=for-the-badge&logo=windows&logoColor=white&color=005fb8" alt="" border=3></td>
     <td colspan="2" align="center" valign="center"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="" border=3></td>
     <td colspan="1" align="center" valign="center"><img src="https://img.shields.io/badge/MX130-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="" border=3></td>
-    <td colspan="2" align="center" valign="center"><img src="https://img.shields.io/badge/Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="" border=3></td>
+    <td colspan="2" align="center" valign="center"><img src="https://img.shields.io/badge/Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="" border=3</td>
   </tr>
 </table>
-
 <br>
 
 ## 🧠 University Projects and Works
-<details>
-  <summary>1st Grade</summary>
-    <details>
-      <summary>&emsp;1st Semester</summary>
-        <details>
-          <summary>&emsp;&emsp;Laboratórios de Informática I</summary>
-          &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/1st%20Grade/1st%20Semester/LI1">Excitebike</a></li>
-          <br>
-        </details>
-    </details>
-    <details>
-      <summary>&emsp;2nd Semester</summary>
-        <details>
-          <summary>&emsp;&emsp;Laboratórios de Informática II</summary>
-          &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/1st%20Grade/2nd%20Semester/LI2/LI2PL7G4">Rastros</a></li>
-          <br>
-        </details>
-    </details>
-    <br>
-</details>
+<table>
+ <tr>
+   <td align="center" valign="center" rowspan="2">1st Grade</td>
+   <td align="center" valign="center">1st Semester</td>
+   <td align="center" valign="center">Laboratórios de Informática I</td>
+   <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/1st%20Grade/1st%20Semester/LI1">Excitebike</a></td>
+     </tr>
+ <tr>
+   <td align="center" valign="center">2nd Semester</td>
+   <td align="center" valign="center">Laboratórios de Informática II</td>
+   <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/1st%20Grade/2nd%20Semester/LI2/LI2PL7G4">Rastros</a></td>
+ </tr>
+</table>
 
-<details>
-  <summary>2nd Grade</summary>
-    <div>
-      <details>
-        <summary>&emsp;1st Semester</summary>
-          <details>
-            <summary>&emsp;&emsp;Comunicação de Dados</summary>
-              &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/1st%20Semester/Comunica%C3%A7%C3%A3o%20de%20Dados">Conversion Data System</a></li>
-            <br>
-          </details>
-      </details>
-    </div>
-    <div>  
-      <details>
-      <summary>&emsp;2nd Semester</summary>
-        <details>
-          <summary>&emsp;&emsp;Cálculo de Programas</summary>
-            &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/CP">Project</a></li>
-          <br>
-        </details>
-        <details>
-          <summary>&emsp;&emsp;Laboratórios de Informática III</summary>
-            &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/LI3/project_c">SGR - C</a></li>
-            &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/LI3/project_java">SGR - JAVA</a></li>
-          <br>
-        </details>
-        <details>
-          <summary>&emsp;&emsp;Programação Orientada aos Objetos</summary>
-            &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/POO">Football Manager</a></li>
-          <br>
-        </details>
-        <details>
-          <summary>&emsp;&emsp;Sistemas Operativos</summary>
-            &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/SO">Audio File Processor</a></li>
-          <br>
-        </details>
-    </details>
-    <br>
-</details>
+<table>
+  <tr>
+    <td align="center" valign="center" rowspan="5">2nd Grade</td>
+    <td align="center" valign="center">1st Semester</td>
+    <td align="center" valign="center">Comunicação de Dados</td>
+    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/1st%20Semester/Comunica%C3%A7%C3%A3o%20de%20Dados">Conversion Data System</a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="center" rowspan="4">2nd Semester</td>
+    <td align="center" valign="center">Cálculo de Programas</td>
+    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/CP">Rastros</a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="center">Laboratórios de Informática III</td>
+    <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/LI3/project_c">SGR - C</a></td>
+    <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/LI3/project_java">SGR - JAVA</a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="center">Programação Orientada aos Objetos</td>
+    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/POO">Football Manager</a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="center">Sistemas Operativos</td>
+    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/SO">Audio File Processor</a></td>
+  </tr>
+</table>
 <br>
 
 ## 🧍 Projects and Works by Myself
