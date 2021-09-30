@@ -1,4 +1,4 @@
-# 👋 Hi! Welcome to my GitHub account
+<!--# 👋 Hi! Welcome to my GitHub account
 
 🏠 Barcelos, Portugal
 <br>
@@ -9,7 +9,7 @@
 [![Facebook](https://img.shields.io/badge/Henrique_Alvelos-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/henrique.alvelos/) 
 [![Instagram](https://img.shields.io/badge/@henrique__0911-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique_0911/)
 [![Spotify](https://img.shields.io/badge/Henrique_Alvelos-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/henriquealvelos?si=79c3136203bd4813)
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 <br>
 
 ## ⚡ GitHub Stats
@@ -101,3 +101,4 @@
 
 ## 🎧 Now Listening
 [![Spotify](https://novatorem-henrique-190.vercel.app/api/spotify)](https://open.spotify.com/user/x8x10e9k61yoscgk3qsxckogt)
+-->
