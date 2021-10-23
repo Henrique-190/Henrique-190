@@ -1,4 +1,4 @@
-<!--# 👋 Hi! Welcome to my GitHub account
+👋 Hi! Welcome to my GitHub account
 
 🏠 Barcelos, Portugal
 <br>
@@ -101,4 +101,3 @@
 
 ## 🎧 Now Listening
 [![Spotify](https://novatorem-henrique-190.vercel.app/api/spotify)](https://open.spotify.com/user/x8x10e9k61yoscgk3qsxckogt)
--->
