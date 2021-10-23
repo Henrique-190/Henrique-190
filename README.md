@@ -77,7 +77,7 @@
   <tr>
     <td align="center" valign="center" rowspan="4">2nd Semester</td>
     <td align="center" valign="center">Cálculo de Programas</td>
-    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/CP">Rastros</a></td>
+    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/CP">Project</a></td>
   </tr>
   <tr>
     <td align="center" valign="center">Laboratórios de Informática III</td>
