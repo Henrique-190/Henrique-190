@@ -38,7 +38,6 @@
   <tr>
     <td align="center" valign="center">Machine</td>
     <td align="center" valign="center"><img src="https://img.shields.io/badge/Windows 11-190?style=for-the-badge&logo=windows&logoColor=white&color=005fb8" alt="" border=3></td>
-    <td align="center" valign="center"><img src="https://img.shields.io/badge/MX130-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="" border=3></td>
     <td align="center" valign="center"><img src="https://img.shields.io/badge/Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="" border=3</td>
   </tr>
 </table>
@@ -58,18 +57,12 @@
    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/1st%20Grade/2nd%20Semester/LI2/LI2PL7G4">Rastros</a></td>
  </tr>
 </table>
-
 <table>
   <tr>
     <td align="center" valign="center" rowspan="5">2nd Grade</td>
     <td align="center" valign="center">1st Semester</td>
     <td align="center" valign="center">Comunicação de Dados</td>
     <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/1st%20Semester/Comunica%C3%A7%C3%A3o%20de%20Dados">Conversion Data System</a></td>
-  </tr>
-  <tr>
-    <td align="center" valign="center" rowspan="4">2nd Semester</td>
-    <td align="center" valign="center">Cálculo de Programas</td>
-    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/CP">Project</a></td>
   </tr>
   <tr>
     <td align="center" valign="center">Laboratórios de Informática III</td>
@@ -82,6 +75,31 @@
   </tr>
   <tr>
     <td align="center" valign="center">Sistemas Operativos</td>
+    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/SO">Audio File Processor</a></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center" valign="center" rowspan="5">3rd Grade</td>
+  <tr>
+    <td align="center" valign="center" rowspan="4">1st Semester</td>
+    <td align="center" valign="center">Desenvolvimento de Sistemas de Software</td>
+    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/3rd%20Grade/1st%20Semester/DSS">Equipment Management and Repair System</a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="center">Laboratórios de Informática IV</td>
+    <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/LI4/project_c">Mangiare</a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="center">Inteligência Artificial</td>
+    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/POO">Green Distribution</a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="center">Sistemas Dinâmicos</td>
+    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/SO">Flight Reservation and Management Service</a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="center">Cálculo de Programas</td>
     <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/SO">Audio File Processor</a></td>
   </tr>
 </table>
