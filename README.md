@@ -28,9 +28,10 @@
     <td align="center" valign="center"><img src="https://img.shields.io/badge/Latex-190.svg?style=for-the-badge&logo=latex&logoColor=114433&color=114433&labelColor=ffffff" alt="" border=3></td>
     <td align="center" valign="center"><img src="https://img.shields.io/badge/C-190?style=for-the-badge&logo=c&logoColor=00599C&color=00599C&labelColor=ffffff" alt="" border=3></td>
     <td align="center" valign="center"><img src="https://img.shields.io/badge/Java-190?style=for-the-badge&logo=java&logoColor=ED8B00&color=ED8B00&labelColor=ffffff" alt="" border=3></td>
-    <td colspan="2" align="center" valign="center"><img src="https://img.shields.io/badge/R-190?style=for-the-badge&logo=r&logoColor=276DC3&color=276DC3&labelColor=ffffff" alt="" border=3></td>
-    <td align="center" valign="center"><img src="https://img.shields.io/badge/mysql-190?style=for-the-badge&logo=mysql&logoColor=1e81b0&color=1e81b0&labelColor=ffffff" alt="" border=3></td>
-    <td colspan="2" align="center" valign="center"><img src="https://img.shields.io/badge/Python-190?style=for-the-badge&logo=python&logoColor=938200&color=938200&labelColor=ffffff" alt="" border=3></td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/R-190?style=for-the-badge&logo=r&logoColor=276DC3&color=276DC3&labelColor=ffffff" alt="" border=3></td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/Python-190?style=for-the-badge&logo=python&logoColor=938200&color=938200&labelColor=ffffff" alt="" border=3></td>
+    <td align="center" valign="center"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=1e81b0&color=1e81b0&labelColor=ffffff" alt="" border=3></td>
+    <td align="center" valign="center"><img src="https://github.com/Henrique-190/Henrique-190/blob/main/prolog.png?raw=true" alt="" border=3></td>
   </tr>
 </table>
 <table>
