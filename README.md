@@ -4,13 +4,15 @@
 <br>
 👨‍🎓 3rd Year, Computer Science, Universidade do Minho, Braga, Portugal
 <br><br><br>
-<!---
+
 ## 📱 Social Media
-[![Facebook](https://img.shields.io/badge/Henrique_Alvelos-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/henrique.alvelos/) 
-[![Instagram](https://img.shields.io/badge/@henrique__0911-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique_0911/)
+[![Instagram](https://img.shields.io/badge/@henrique__0911-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/190muralhas)
 [![Spotify](https://img.shields.io/badge/Henrique_Alvelos-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/henriquealvelos?si=79c3136203bd4813)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 <br>
+
+<!---
+[![Facebook](https://img.shields.io/badge/Henrique_Alvelos-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/henrique.alvelos/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 -->
 ## ⚡ GitHub Stats
 <div style="text-align: center;">
@@ -20,27 +22,15 @@
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
-## 💻 Languages and Tools:
-<table>
-  <tr>
-    <td align="center" valign="center">Languages</td>
-    <td align="center" valign="center"><img src="https://img.shields.io/badge/Haskell-190?style=for-the-badge&logo=haskell&logoColor=5D4F85&color=5D4F85&labelColor=ffffff" alt="" border=3></td>
-    <td align="center" valign="center"><img src="https://img.shields.io/badge/Latex-190.svg?style=for-the-badge&logo=latex&logoColor=114433&color=114433&labelColor=ffffff" alt="" border=3></td>
-    <td align="center" valign="center"><img src="https://img.shields.io/badge/C-190?style=for-the-badge&logo=c&logoColor=00599C&color=00599C&labelColor=ffffff" alt="" border=3></td>
-    <td align="center" valign="center"><img src="https://img.shields.io/badge/Java-190?style=for-the-badge&logo=java&logoColor=ED8B00&color=ED8B00&labelColor=ffffff" alt="" border=3></td>
-    <td align="center" valign="center"><img src="https://img.shields.io/badge/R-190?style=for-the-badge&logo=r&logoColor=276DC3&color=276DC3&labelColor=ffffff" alt="" border=3></td>
-    <td align="center" valign="center"><img src="https://img.shields.io/badge/Python-190?style=for-the-badge&logo=python&logoColor=938200&color=938200&labelColor=ffffff" alt="" border=3></td>
-    <td align="center" valign="center"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=1e81b0&color=1e81b0&labelColor=ffffff" alt="" border=3></td>
-    <td align="center" valign="center"><img src="https://github.com/Henrique-190/Henrique-190/blob/main/prolog.png?raw=true" alt="" border=3></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td align="center" valign="center">Machine</td>
-    <td align="center" valign="center"><img src="https://img.shields.io/badge/Windows 11-190?style=for-the-badge&logo=windows&logoColor=white&color=005fb8" alt="" border=3></td>
-    <td align="center" valign="center"><img src="https://img.shields.io/badge/Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="" border=3</td>
-  </tr>
-</table>
+## 💻 Languages:
+[![Haskell](https://img.shields.io/badge/Haskell-190?style=for-the-badge&logo=haskell&logoColor=5D4F85&color=5D4F85&labelColor=ffffff)]()
+[![C](https://img.shields.io/badge/C-190?style=for-the-badge&logo=c&logoColor=00599C&color=00599C&labelColor=ffffff)]()
+[![Java](https://img.shields.io/badge/Java-190?style=for-the-badge&logo=java&logoColor=ED8B00&color=ED8B00&labelColor=ffffff)]()
+[![R](https://img.shields.io/badge/R-190?style=for-the-badge&logo=r&logoColor=276DC3&color=276DC3&labelColor=ffffff)]()
+[![Python](https://img.shields.io/badge/Python-190?style=for-the-badge&logo=python&logoColor=938200&color=938200&labelColor=ffffff)]()
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=1e81b0&color=1e81b0&labelColor=ffffff)]()
+[![Prolog](https://github.com/Henrique-190/Henrique-190/blob/main/prolog.png?raw=true)]()
+
 <br>
 
 ## 🧠 University Projects and Works
@@ -82,7 +72,6 @@
 <table>
   <tr>
     <td align="center" valign="center" rowspan="6">3rd Grade</td>
-  <tr>
     <td align="center" valign="center" rowspan="6">1st Semester</td>
     <td align="center" valign="center">Desenvolvimento de Sistemas de Software</td>
     <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/3rd%20Grade/1st%20Semester/DSS">Equipment Management and Repair System</a></td>
@@ -109,6 +98,3 @@
 ## 🧍 Projects and Works by Myself
 [![ChangeMediaName](https://github-readme-stats.vercel.app/api/pin/?username=Henrique-190&repo=ChangeMediaName&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true)](https://github.com/Henrique-190/ChangeMediaName)
 <br><br><br>
-
-## 🎧 Now Listening
-[![Spotify](https://novatorem-henrique-190.vercel.app/api/spotify)](https://open.spotify.com/user/x8x10e9k61yoscgk3qsxckogt)
