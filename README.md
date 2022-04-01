@@ -1,5 +1,3 @@
-👋 Hi! Welcome to my GitHub account
-
 🏠 Barcelos, Portugal
 <br>
 👨‍🎓 3rd Year, Computer Science, Universidade do Minho, Braga, Portugal
@@ -9,6 +7,7 @@
 [![Instagram](https://img.shields.io/badge/@henrique__0911-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/190muralhas)
 [![Spotify](https://img.shields.io/badge/Henrique_Alvelos-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/henriquealvelos?si=79c3136203bd4813)
 <br>
+
 
 <!---
 [![Facebook](https://img.shields.io/badge/Henrique_Alvelos-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/henrique.alvelos/) 
