@@ -8,14 +8,9 @@
 ## 📱 Social Media
 
 [![Spotify](https://img.shields.io/badge/Henrique_Alvelos-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/henriquealvelos?si=79c3136203bd4813)
+[![LinkedIn](https://img.shields.io/badge/Henrique_Alvelos-0072B1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-alvelos/)
 <br>
 
-
-<!---
-[![Instagram](https://img.shields.io/badge/@henrique__0911-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/190muralhas)
-[![Facebook](https://img.shields.io/badge/Henrique_Alvelos-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/henrique.alvelos/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
--->
 ## ⚡ GitHub Stats
 <div style="text-align: center;">
     <img align="left" alt="Henrique-190 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=henrique-190&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true)" width="450" height="175"/>
