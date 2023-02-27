@@ -1,6 +1,7 @@
 🏠 Barcelos, Portugal
 <br>
 ✔ BSc Computer Science
+<br>
 👨‍🎓 1st Year, MSc Computer Science, Universidade do Minho, Braga, Portugal
 <br><br><br>
 
