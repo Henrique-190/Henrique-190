@@ -1,96 +1,354 @@
-🏠 Barcelos, Portugal
-<br>
-✔ BSc Computer Science
-<br>
-👨‍🎓 1st Year, MSc Computer Science, Universidade do Minho, Braga, Portugal
-<br><br><br>
+## Personal Information
+🏠 Barcelos, Portugal  
+🎓 BSc Computer Science @ Universidade do Minho, Braga
+👨‍🎓 2nd Year, MSc Computer Science @ Universidade do Minho, Braga
 
-## 📱 Social Media
 
-[![Spotify](https://img.shields.io/badge/Henrique_Alvelos-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/henriquealvelos?si=79c3136203bd4813)
-[![LinkedIn](https://img.shields.io/badge/Henrique_Alvelos-0072B1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-alvelos/)
-<br>
-
-## ⚡ GitHub Stats
-<div style="text-align: center;">
-    <img align="left" alt="Henrique-190 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=henrique-190&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true)" width="450" height="175"/>
-    <img align="right" alt="Henrique-190 GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-190&card_width=260&layout=compact&show_icons=true&hide_border=true&theme=react&include_all_commits=true)"/>
-</div>
-
-<br><br><br><br><br><br><br><br><br><br><br>
-
-## 💻 Languages:
-[![Haskell](https://img.shields.io/badge/Haskell-190?style=for-the-badge&logo=haskell&logoColor=5D4F85&color=5D4F85&labelColor=ffffff)]()
-[![C](https://img.shields.io/badge/C-190?style=for-the-badge&logo=c&logoColor=00599C&color=00599C&labelColor=ffffff)]()
-[![Java](https://img.shields.io/badge/Java-190?style=for-the-badge&logo=java&logoColor=ED8B00&color=ED8B00&labelColor=ffffff)]()
-[![R](https://img.shields.io/badge/R-190?style=for-the-badge&logo=r&logoColor=276DC3&color=276DC3&labelColor=ffffff)]()
-[![Python](https://img.shields.io/badge/Python-190?style=for-the-badge&logo=python&logoColor=938200&color=938200&labelColor=ffffff)]()
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=1e81b0&color=1e81b0&labelColor=ffffff)]()
-[![Prolog](https://github.com/Henrique-190/Henrique-190/blob/main/prolog.png?raw=true)]()
-
-<br>
-
-## 🧠 University Projects and Works
+## 💻 Skills:
 <table>
- <tr>
-   <td align="center" valign="center" rowspan="2">1st Grade</td>
-   <td align="center" valign="center">1st Semester</td>
-   <td align="center" valign="center">Laboratórios de Informática I</td>
-   <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/1st%20Grade/1st%20Semester/LI1">Excitebike</a></td>
-     </tr>
- <tr>
-   <td align="center" valign="center">2nd Semester</td>
-   <td align="center" valign="center">Laboratórios de Informática II</td>
-   <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/1st%20Grade/2nd%20Semester/LI2/LI2PL7G4">Rastros</a></td>
- </tr>
-</table>
-<table>
-  <tr>
-    <td align="center" valign="center" rowspan="5">2nd Grade</td>
-    <td align="center" valign="center">1st Semester</td>
-    <td align="center" valign="center">Comunicação de Dados</td>
-    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/1st%20Semester/Comunica%C3%A7%C3%A3o%20de%20Dados">Conversion Data System</a></td>
-  </tr>
-  <tr>
-    <td align="center" valign="center" rowspan="3">2nd Semester</td>
-    <td align="center" valign="center">Laboratórios de Informática III</td>
-    <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/LI3/project_c">SGR - C</a></td>
-    <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/LI3/project_java">SGR - JAVA</a></td>
-  </tr>
-  <tr>
-    <td align="center" valign="center">Programação Orientada aos Objetos</td>
-    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/POO">Football Manager</a></td>
-  </tr>
-  <tr>
-    <td align="center" valign="center">Sistemas Operativos</td>
-    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/2nd%20Grade/2nd%20Semester/SO">Audio File Processor</a></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td align="center" valign="center" rowspan="6">3rd Grade</td>
-    <td align="center" valign="center" rowspan="6">1st Semester</td>
-    <td align="center" valign="center">Desenvolvimento de Sistemas de Software</td>
-    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/3rd%20Grade/1st%20Semester/DSS">Equipment Management and Repair System</a></td>
-  </tr>
-  <tr>
-    <td align="center" valign="center">Laboratórios de Informática IV</td>
-    <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/3rd%20Grade/1st%20Semester/LI4/">Mangiare</a></td>
-  </tr>
-  <tr>
-    <td align="center" valign="center">Inteligência Artificial</td>
-    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/3rd%20Grade/1st%20Semester/IA">Green Distribution</a></td>
-  </tr>
-  <tr>
-    <td align="center" valign="center">Sistemas Dinâmicos</td>
-    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/3rd%20Grade/1st%20Semester/SD">Flight Reservation and Management Service</a></td>
-  </tr>
-  <tr>
-    <td align="center" valign="center">Cálculo de Programas</td>
-    <td colspan="2" align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/3rd%20Grade/1st%20Semester/CP">Calculation Methods</a></td>
-  </tr>
-</table>
-<br>
+<tr>
+  <td>
+    Functional Programming Languages
+  </td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=haskell&perline=1"> <img src="https://skillicons.dev/icons?i=r&perline=1"> <img src="src/prolog.png" alt="Prolog" width=48>
+  </td>
+</tr>
 
-## 🧍 Projects and Works by Myself
-[![ChangeMediaName](https://github-readme-stats.vercel.app/api/pin/?username=Henrique-190&repo=CMN&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true)](https://github.com/Henrique-190/ChangeMediaName)
+<tr>
+  <td>
+    Low-Level Programming Languages
+  </td>  
+  <td>
+    <img src="https://skillicons.dev/icons?i=c&perline=10">
+  </td>
+</tr>
+
+<tr>
+  <td>
+    Object-Oriented Programming Languages
+  </td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=cpp,go,java&perline=10">
+  </td>
+</tr>
+
+<tr>
+  <td>
+    Scripting and Markup Languages
+  </td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=html,javascript,markdown,latex,python,pug&perline=10">
+  </td>
+</tr>
+
+<tr>
+  <td>
+    Database Management Systems
+  </td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2">
+  </td>
+</tr>
+
+<tr>
+  <td>
+    Version Control Systems
+  </td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=git&perline=1">
+  </td>
+</tr>
+
+<tr>
+  <td>
+    IDEs
+  </td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=clion,idea,pycharm,vscode&perline=10">
+  </td>
+</tr>
+
+<tr>
+  <td>
+    Other Tools
+  </td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=docker,bots,githubactions,maven,nodejs,postman,regex&perline=10">
+  </td>
+</table>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-190&hide=jupyter%20notebook,html,roff&layout=donut&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 🎓 Bachelor Projects
+<details>
+  <summary>1st Year</summary>
+   
+  <details open>
+    <summary>1st Semester</summary>
+    <table>
+      <tr>
+        <td align="center" valign="center">Laboratórios de<br>Informática I
+      </td>
+        <td align="center" valign="center">Informatics<br>Labs I
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/1stGrade/1stSemester/LI1">Excitebike</a>
+      </td>
+      </tr>
+    </table>
+  </details>
+
+  <details open>
+    <summary>2nd Semester</summary>
+    <table>
+      <tr>
+        <td align="center" valign="center">Laboratórios de<br>Informática II
+      </td>
+        <td align="center" valign="center">Informatics<br>Labs II
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/1stGrade/2ndSemester/LI2/LI2PL7G4">Rastros</a>
+      </td>
+      </tr>
+    </table>
+  </details>
+</details>
+
+
+<details>
+  <summary>2nd Year</summary>
+   
+  <details open>
+    <summary>1st Semester</summary>
+    <table>
+      <tr>
+        <td align="center" valign="center">Comunicação<br>de Dados
+      </td>
+        <td align="center" valign="center">Data<br>Communication
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/2ndGrade/1stSemester/Comunica%C3%A7%C3%A3o%20de%20Dados">Sistema de Conversão de Dados<br>Data Conversion System</a>
+      </td>
+      </tr>
+    </table>
+  </details>
+
+  <details open>
+    <summary>2nd Semester</summary>
+    <table>
+      <tr>
+        <td align="center" valign="center">Laboratórios de<br>Informática III
+      </td>
+        <td align="center" valign="center">Informatics<br>Labs III
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/2ndGrade/2ndSemester/LI3">Sistema de Gestão de Recomendações<br>Recommendation Management System</a>
+      </td>
+      </tr>
+      <tr>
+        <td align="center" valign="center">Programação Orientada<br>aos Objetos
+      </td>
+        <td align="center" valign="center">Object-Oriented<br>Programming
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/2ndGrade/2ndSemester/POO">Football Manager</a>
+      </td>
+      </tr>
+    </table>
+  </details>
+</details>
+
+<details>
+  <summary>3rd Year</summary>
+   
+  <details open>
+    <summary>1st Semester</summary>
+    <table>
+      <tr>
+        <td align="center" valign="center">Cálculo de Programas
+      </td>
+        <td align="center" valign="center">Program<br>Calculation
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/3rdGrade/1stSemester/CP">Projeto<br>Project</a>
+      </td>
+      </tr>
+      <tr>
+        <td align="center" valign="center">Comunicações<br>por Computador
+      </td>
+        <td align="center" valign="center">Computer<br>Communications
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/3rdGrade/1stSemester/CC">Sistema DNS<br>DNS System</a>
+      </td>
+      </tr>
+      <tr>
+        <td align="center" valign="center">Desenvolvimento de Sistemas<br>de Software
+      </td>
+        <td align="center" valign="center">System<br>Software Development
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/3rdGrade/1stSemester/DSS">Sistema de Gestão para Centros de Reparação<br>Repair Center Management System</a>
+      </td>
+      </tr>
+      <tr>
+        <td align="center" valign="center">Inteligência<br>Artificial
+      </td>
+        <td align="center" valign="center">Artificial<br>Intelligence
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/3rdGrade/1stSemester/IA">Green Distribution</a>
+      </td>
+      </tr>
+      <tr>
+        <td align="center" valign="center">Laboratórios de<br>Informática IV
+      </td>
+        <td align="center" valign="center">Informatics<br>Labs IV
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/3rdGrade/1stSemester/LI4/">Mangiare</a>
+      </td>
+      </tr>
+      <tr>
+        <td align="center" valign="center">Sistemas<br>Distribuídos
+      </td>
+        <td align="center" valign="center">Distributed<br>Systems
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/3rdGrade/1stSemester/SD">Plataforma de reserva de voos<br>Flight Reservation Platform</a>
+      </td>
+      </tr>
+    </table>
+  </details>
+
+  <details open>
+    <summary>2nd Semester</summary>
+    <table>
+      <tr>
+        <td align="center" valign="center">Aprendizagem e<br>Decisão Inteligentes
+      </td>
+        <td align="center" valign="center">Intelligent<br>Learning and Decision
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/3rdGrade/2ndSemester/ADI">Conceção de modelos de aprendizagem<br>Learning models design</a>
+      </td>
+      </tr>
+      <tr>
+        <td align="center" valign="center">Computação<br>Gráfica
+      </td>
+        <td align="center" valign="center">Computer<br>Graphics
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/3rdGrade/2ndSemester/CG">Sistema solar<br>Solar System</a>
+      </td>
+      </tr>
+      <tr>
+        <td align="center" rowspan="2" valign="center">Processamento<br>de Linguagens
+      </td>
+        <td align="center" rowspan="2" valign="center">Language<br>Processing
+      </td>
+          <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/3rdGrade/2ndSemester/PL/1_Conversor">Conversor CSV para JSON<br>CSV to JSON Converter</a>
+        </td>
+        </tr>
+          <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/3rdGrade/2ndSemester/PL/2_ParserGenerator">Gerador de Parser<br>Parser Generator</a>
+        </td>
+      </tr>
+    </table>
+  </details>
+</details>
+
+
+## 👨‍🎓 Master Projects
+<details>
+  <summary>1st Year</summary>
+   
+  <details open>
+    <summary>1st Semester</summary>
+    <table>
+      <tr>
+        <td align="center" valign="center">Aplicações e Serviços de<br>Computação em Nuvem
+      </td>
+        <td align="center" valign="center">Cloud Computing<br>Applications and Services
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Master/1stGrade/1stSemester/ASCN">Automatização da aplicação Ghost<br>Ghost application automation</a>
+      </td>
+      </tr>
+      <tr>
+        <td align="center" valign="center">Dados e Aprendizagem<br>Automática
+      </td>
+        <td align="center" valign="center">Data and<br>Machine Learning
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Master/1stGrade/1stSemester/DAA">Conceção e otimização de modelos de Machine Learning<br>Conception and optimization of Machine Learning models</a>
+      </td>
+      </tr>
+      <tr>
+        <td align="center" valign="center">Computação<br>Paralela
+      </td>
+        <td align="center" valign="center">Parallel<br>Computing
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Master/1stGrade/1stSemester/CP">Algoritmo K-Means<br>K-Means Algorithm</a>
+      </td>
+      </tr>
+      <tr>
+        <td align="center" valign="center">Engenharia de<br>Serviços em Rede
+      </td>
+        <td align="center" valign="center">Network Services<br>Engineering
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/blob/main/Master/1stGrade/1stSemester/ESR">Servidor em tempo real<br>Real-time server</a>
+      </td>
+      </tr>
+    </table>
+  </details>
+
+  <details open>
+    <summary>2nd Semester - Language Engineering</summary>
+    <table>
+      <tr>
+        <td align="center" valign="center">Engenharia<br>Gramatical
+      </td>
+        <td align="center" valign="center">Grammatical<br>Engineering
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/blob/main/Master/1stGrade/2ndSemester/EL/EG">Ferramenta de<br>Análise de Código<br>Code Analysis Tool</a>
+      </td>
+      </tr>
+      <tr>
+        <td align="center" valign="center">Representação e Processamento<br>de Conhecimento na Web
+      </td>
+        <td align="center" valign="center">Knowledge Representation<br>and Processing on the Web
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/blob/main/Master/1stGrade/2ndSemester/EL/RPCW">Base de Dados de Acórdãos<br>Case Law Database</a>
+      </td>
+      </tr>
+      <tr>
+        <td align="center" valign="center">Scripting e Processamento<br>de Linguagem Natural
+      </td>
+        <td align="center" valign="center">Scripting and Natural<br>Language Processing
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/blob/main/Master/1stGrade/2ndSemester/EL/SPLN">Guia de Programação da Rádio<br>Radio Program Guide</a>
+      </td>
+      </tr>
+    </table>
+  </details>
+</details>
+
+<details>
+  <summary>2nd Year</summary>
+  <details open>
+    <summary>1st Semester</summary>
+    <table>
+      <tr>
+        <td align="center" rowspan="2" valign="center">Aprendizagem<br>Automática
+      </td>
+        <td align="center" rowspan="2" valign="center">Machine<br>Learning
+      </td>
+          <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/blob/main/Master/2ndGrade/1stSemester/ML/Project">Previsão da classificação da Premier League inglesa 22/23<br>English Premier League 22/23 Prediction Standings</a>
+        </td>
+        </tr>
+          <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/blob/main/Master/2ndGrade/1stSemester/ML/Assignments">Trabalhos Práticos<br>Practical Assignments</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="center">Engenharia de<br>Software
+      </td>
+        <td align="center" valign="center">Software<br>Engineering
+      </td>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Master/2ndGrade/1stSemester/SE">Sistema de Gestão de Encomendas<br>Order Management System</a>
+      </td>
+      </tr>
+    </table>
+  </details>
+</details>
+
+
+## 🧍 My Own Projects
+[![.dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=Henrique-190&repo=.dotfiles&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true)](https://github.com/Henrique-190/.dotfiles)
+[![ChangeMediaName](https://github-readme-stats.vercel.app/api/pin/?username=Henrique-190&repo=CMN&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true)](https://github.com/Henrique-190/CMN)
