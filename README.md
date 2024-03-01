@@ -99,6 +99,7 @@
       </td>
       </tr>
     </table>
+    <br><br>
     <table>
       <thead>
         <tr>
@@ -118,6 +119,7 @@
 </details>
 
 
+<br>
 <details>
   <summary>2nd Year</summary>
     <table>
@@ -135,6 +137,7 @@
       </td>
       </tr>
     </table>
+    <br><br>
     <table>
       <thead>
         <tr>
@@ -161,6 +164,7 @@
   </details>
 </details>
 
+<br>
 <details>
   <summary>3rd Year</summary>
     <table>
@@ -218,6 +222,7 @@
       </td>
       </tr>
     </table>
+    <br><br>
     <table>
       <thead>
         <tr>
@@ -298,6 +303,7 @@
       </td>
       </tr>
     </table>
+    <br><br>
     <table>
       <thead>
         <tr>
@@ -332,6 +338,7 @@
   </details>
 </details>
 
+<br>
 <details>
   <summary>2nd Year</summary>
     <table>
