@@ -1,7 +1,7 @@
-## Personal Information
+## 👋 Personal Information
 🏠 Barcelos, Portugal  
 🎓 BSc Computer Science @ Universidade do Minho, Braga
-👨‍🎓 2nd Year, MSc Computer Science @ Universidade do Minho, Braga
+👨‍🎓 Universidade do Minho, Braga
 
 
 ## 💻 Skills:
@@ -78,16 +78,18 @@
   </td>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-190&hide=jupyter%20notebook,html,roff&layout=donut&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-190&hide=jupyter%20notebook,html,roff&layout=donut&theme=vue-dark" alt="Henrique-190's Most Used Languages"/>
 
 
 ## 🎓 Bachelor Projects
 <details>
   <summary>1st Year</summary>
-   
-  <details open>
-    <summary>1st Semester</summary>
     <table>
+      <thead>
+        <tr>
+          <th align="center" colspan="3">1st Semester</th>
+        </tr>
+      </thead>
       <tr>
         <td align="center" valign="center">Laboratórios de<br>Informática I
       </td>
@@ -97,11 +99,12 @@
       </td>
       </tr>
     </table>
-  </details>
-
-  <details open>
-    <summary>2nd Semester</summary>
     <table>
+      <thead>
+        <tr>
+          <th align="center" colspan="3">2nd Semester</th>
+        </tr>
+      </thead>
       <tr>
         <td align="center" valign="center">Laboratórios de<br>Informática II
       </td>
@@ -117,10 +120,12 @@
 
 <details>
   <summary>2nd Year</summary>
-   
-  <details open>
-    <summary>1st Semester</summary>
     <table>
+      <thead>
+        <tr>
+          <th align="center" colspan="3">1st Semester</th>
+        </tr>
+      </thead>
       <tr>
         <td align="center" valign="center">Comunicação<br>de Dados
       </td>
@@ -130,11 +135,12 @@
       </td>
       </tr>
     </table>
-  </details>
-
-  <details open>
-    <summary>2nd Semester</summary>
     <table>
+      <thead>
+        <tr>
+          <th align="center" colspan="3">2nd Semester</th>
+        </tr>
+      </thead>
       <tr>
         <td align="center" valign="center">Laboratórios de<br>Informática III
       </td>
@@ -157,10 +163,12 @@
 
 <details>
   <summary>3rd Year</summary>
-   
-  <details open>
-    <summary>1st Semester</summary>
     <table>
+      <thead>
+        <tr>
+          <th align="center" colspan="3">1st Semester</th>
+        </tr>
+      </thead>
       <tr>
         <td align="center" valign="center">Cálculo de Programas
       </td>
@@ -210,11 +218,12 @@
       </td>
       </tr>
     </table>
-  </details>
-
-  <details open>
-    <summary>2nd Semester</summary>
     <table>
+      <thead>
+        <tr>
+          <th align="center" colspan="3">2nd Semester</th>
+        </tr>
+      </thead>
       <tr>
         <td align="center" valign="center">Aprendizagem e<br>Decisão Inteligentes
       </td>
@@ -250,10 +259,12 @@
 ## 👨‍🎓 Master Projects
 <details>
   <summary>1st Year</summary>
-   
-  <details open>
-    <summary>1st Semester</summary>
     <table>
+      <thead>
+        <tr>
+          <th align="center" colspan="3">1st Semester</th>
+        </tr>
+      </thead>
       <tr>
         <td align="center" valign="center">Aplicações e Serviços de<br>Computação em Nuvem
       </td>
@@ -287,11 +298,12 @@
       </td>
       </tr>
     </table>
-  </details>
-
-  <details open>
-    <summary>2nd Semester - Language Engineering</summary>
     <table>
+      <thead>
+        <tr>
+          <th align="center" colspan="3">2nd Semester - Engenharia de Linguagens / Language Engineering</th>
+        </tr>
+      </thead>
       <tr>
         <td align="center" valign="center">Engenharia<br>Gramatical
       </td>
@@ -322,9 +334,12 @@
 
 <details>
   <summary>2nd Year</summary>
-  <details open>
-    <summary>1st Semester</summary>
     <table>
+      <thead>
+        <tr>
+          <th align="center" colspan="3">1st Semester</th>
+        </tr>
+      </thead>
       <tr>
         <td align="center" rowspan="2" valign="center">Aprendizagem<br>Automática
       </td>
