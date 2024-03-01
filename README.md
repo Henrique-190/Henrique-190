@@ -1,7 +1,7 @@
 ## 👋 Personal Information
 🏠 Barcelos, Portugal  
-🎓 BSc Computer Science @ Universidade do Minho, Braga
-👨‍🎓 Universidade do Minho, Braga
+🎓 BSc Computer Science @ Universidade do Minho, Braga  
+👨‍🎓 MSc Computer Science @ Universidade do Minho, Braga & Uniwersytet Wrocławski, Wrocław
 
 
 ## 💻 Skills:
