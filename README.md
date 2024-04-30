@@ -111,7 +111,7 @@
       </td>
         <td align="center" valign="center">Informatics<br>Labs II
       </td>
-        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/1stGrade/2ndSemester/LI2/LI2PL7G4">Rastros</a>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/1stGrade/2ndSemester/LI2">Rastros</a>
       </td>
       </tr>
     </table>
@@ -133,7 +133,7 @@
       </td>
         <td align="center" valign="center">Data<br>Communication
       </td>
-        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/2ndGrade/1stSemester/Comunica%C3%A7%C3%A3o%20de%20Dados">Sistema de Conversão de Dados<br>Data Conversion System</a>
+        <td align="center" valign="center"><a href="https://github.com/Henrique-190/University/tree/main/Bachelor/2ndGrade/1stSemester/CD">Sistema de Conversão de Dados<br>Data Conversion System</a>
       </td>
       </tr>
     </table>
